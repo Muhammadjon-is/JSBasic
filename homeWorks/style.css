@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+.btn {
+ background-color: black;
+ color: white;
+}
+.pro {
+    width: 600px;
+    height: 500px;
+    margin: 10px;
+    /* background-color: aquamarine; */
+}
